@@ -1,1 +1,1 @@
-# Project_ARM_kernel_error_detection_processing
+# Project_ARM_core_error_detection_processing
