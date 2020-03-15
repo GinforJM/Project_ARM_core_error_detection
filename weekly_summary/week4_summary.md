@@ -60,6 +60,7 @@ Reference：Xilinx White Paper 208 (2004)
 
 # future work
 
+-  try to exercise：尝试使用qemu模拟器，模拟undocument/invalid instruction的执行情况（编译helloworld.cpp，将所生成文件其中的指令替换， gcc inline）
 - 搜寻更多的核故障例子，及其故障原因
 - 从reference入手，在学术界更多的相关论文
 - 研读一下CPU架构的手册，了解更多的检测方法
